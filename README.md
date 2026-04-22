@@ -10,7 +10,7 @@ I code stuff, break stuff, then fix it (or give up and cry)
 
 ## 🧰 languages & tools
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,ts,cpp,unity,git,github,rider,webstorm,idea" />
+  <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,ts,cpp,unity,blender,git,github,rider,webstorm,idea" />
 </p>
 
 ## 🚀 projects
