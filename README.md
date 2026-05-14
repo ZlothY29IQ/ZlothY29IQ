@@ -24,11 +24,11 @@ I code stuff, break stuff, then fix it (or give up and cry)
 
 ## 📊 stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZlothY29IQ&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZlothY29IQ&show_icons=true&theme=dark" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZlothY29IQ&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZlothY29IQ&layout=compact&theme=dark" />
 </p>
 
 ## 🌐 socials
