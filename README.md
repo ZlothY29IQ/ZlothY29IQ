@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=decrypting+brain...;enabling+full+skid+gpt+mode...;breaking+production...;fixing+it+somehow...;currently+arguing+with+unity...;c#+is+lowk+overrated...;you+know+what+else+is+massive?" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=decrypting+brain...;enabling+full+skid+gpt+mode...;breaking+production...;fixing+it+somehow...;currently+arguing+with+unity...;cs+is+lowk+overrated...;you+know+what+else+is+massive?;THAT+LOW+TAPER+FADE!" />
 </p>
 
 # 👋 Hey, i'm ZlothY
