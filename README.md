@@ -65,9 +65,9 @@
 ## 🚀 projects
 
 > i actually do stuff sometimes probably
-> got some big non gtag related projects coming eventually™
+> got some big non gtag related projects coming eventually
 
-### 🔗 [hamburbur](https://github.com/hamburbur-org/hamburbur)
+### 🔗 [hamburbur™](https://github.com/hamburbur-org/hamburbur)
 
 > probably the cleanest and highest quality gorilla tag cheat menu out there
 
