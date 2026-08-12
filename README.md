@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://lanyard.cnrad.dev">
-    <img src="https://lanyard.cnrad.dev/api/832552302027079710?animated=true&theme=dark&bg=1a1b27&borderRadius=20px" />
+    <img src="https://lanyard.cnrad.dev/api/832552302027079710?animated=true&theme=dark&bg=1a1b27&borderRadius=50px" />
   </a>
 </p>
 
