@@ -57,7 +57,7 @@
 ## 🧰 my stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,ts,cpp,unity,blender,git,github,rider.clion,webstorm,idea" />
+  <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,ts,cpp,unity,blender,git,github,rider,clion,webstorm,idea" />
 </p>
 
 ---
