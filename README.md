@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=decrypting+brain...;enabling+full+skid+gpt+mode...;breaking+production...;fixing+it+somehow...;currently+arguing+with+unity...;cs+is+lowk+overrated...;you+know+what+else+is+massive?;THAT+LOW+TAPER+FADE!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=decrypting+brain...;enabling+full+skid+gpt+mode...;breaking+production...;fixing+it+somehow...;currently+arguing+with+the+compiler...;cs+is+lowk+overrated...;you+know+what+else+is+massive?;THAT+LOW+TAPER+FADE!" />
 </p>
 
 # 👋 Hey, i'm ZlothY
@@ -54,10 +54,10 @@
 
 ---
 
-## 🧰 languages & tools
+## 🧰 my stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,ts,cpp,unity,blender,git,github,rider,webstorm,idea" />
+  <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,ts,cpp,unity,blender,git,github,rider.clion,webstorm,idea" />
 </p>
 
 ---
